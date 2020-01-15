@@ -1,0 +1,7 @@
+COMO IGNORAR ARQUIVOS NO GIT
+    Salvar os arquivos a serem ignorados no arquivo "gitignore"
+
+REPOSITORIO REMOTO DEVE SER ADICIONADO ANTES DOS ARQUIVOS SEREM ENVIADOS (PUSH)
+
+COMO ADICIONAR UM REPOSITORIO EXISTENTE
+git remote add origin git@github.com:CViniviusSDias/alura-git.git
